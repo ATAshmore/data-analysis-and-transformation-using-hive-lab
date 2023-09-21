@@ -1,6 +1,6 @@
 # data-analysis-and-transformation-using-hive-lab
 
-This repository showcases two significant projects, "Lab: Gaining Insight with Sentiment Analysis" and "Lab: Data Transformation with Hive," completed by Alexander Ashmore. These projects primarily involve data analysis and transformation using Hive, a powerful data warehousing and SQL-like query language designed for big data analytics.
+ "Lab: Gaining Insight with Sentiment Analysis" and "Lab: Data Transformation with Hive,". These projects primarily involve data analysis and transformation using Hive, a powerful data warehousing and SQL-like query language designed for big data analytics.
 
 
 ### Introduction
